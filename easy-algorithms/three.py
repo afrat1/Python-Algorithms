@@ -6,4 +6,4 @@ substring = "Mr.Bean"
 
 count = str_x.count(substring)
 
-print(count)
+print(f"Mr.Bean appeared {count} times.")
