@@ -7,3 +7,5 @@ substring = "Mr.Bean"
 count = str_x.count(substring)
 
 print(f"Mr.Bean appeared {count} times.")
+
+print("Mr.Bean appeared {} times.".format(count))
